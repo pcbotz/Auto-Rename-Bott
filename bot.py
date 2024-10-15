@@ -11,7 +11,7 @@ from datetime import datetime
 import asyncio
 #from plugins.web_support import web_server
 import pyromod
-
+from web_support import app  # Import the app variable
 #logging.config.fileConfig("logging.conf")
 logging.getLogger().setLevel(logging.INFO)
 logging.getLogger("pyrogram").setLevel(logging.ERROR)
