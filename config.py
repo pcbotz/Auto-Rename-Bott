@@ -96,6 +96,7 @@ If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upt
 Joine @AshutoshGoswami24 To Help """
 
 
-
+class Config(object):
+    STRING_SESSION = os.environ.get("STRING_SESSION", "1BVtsOJcBuw4pdWNIW78_8i1-VH8FP9RENWviqD0GvL5-25GSq7V56NWFCty_vI-aTSe54RSYZrzbAnnu2b5Ws7nJv90TmBydyCFL5oWduF2PDBu3LeWBDOq7h-mdTRGLwRaDgUo8FMOtnrLp4sS5xJZ898ql6Bq7bY56fGqPSx2vblLHnBiKfdpa-F3_H_SYvFtU6CVI_OmJ02anzrC5zRRkcYYYoJkqroPCwWlsd8djeTmDAKDhX5ESCWYJ4hZPcfG1uNxcaKLYZIQrCL9buxMRq8fd5vy79bffMlCoKIjfbZiXhJW2nvAx00unb93Zy8j6lgwl-0ndS_jn8NJo3XO7kE7aw1U=")  # Set a default empty string
 
 
